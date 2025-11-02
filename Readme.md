@@ -22,3 +22,7 @@ git add Readme.md
 git status
 git commit -m "This is v2 of index.html"
 git log
+
+
+ git show (id) <!--here the id put here to show old commits -->
+ git checkout (id) * or <file>  <!-- If You want old verions of your file-->
