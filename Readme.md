@@ -20,3 +20,5 @@ git diff
 git add index.html
 git add Readme.md
 git status
+git commit -m "This is v2 of index.html"
+git log
