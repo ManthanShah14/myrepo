@@ -25,4 +25,9 @@ git log
 
 
  git show (id) <!--here the id put here to show old commits -->
+ git log
  git checkout (id) * or <file>  <!-- If You want old verions of your file-->
+ git status
+ git restore . or <file>
+ git restore --staged . or <file>
+ git restore --worktree <file>
