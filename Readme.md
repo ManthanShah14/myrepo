@@ -31,3 +31,9 @@ git log
  git restore . or <file>
  git restore --staged . or <file>
  git restore --worktree <file>
+
+
+ V4 -> 
+ git commit -m "V4"
+ git reset --soft HEAD^
+ git reset --hard HEAD^
